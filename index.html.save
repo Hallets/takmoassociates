@@ -32,7 +32,6 @@
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
-
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="procure.html" class="nav-link">Procurement and Logistics</a></li>
@@ -49,7 +48,7 @@
 	
  
 	
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/4.jpeg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap js-fullheight" style="background-image: url('images/r3.jpg');" data-stellar-background-ratio="0.5">
       <div class="col-md-6 text-center" data-aos="fade">
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
@@ -81,7 +80,7 @@
 	          <div class="heading-section ftco-animate">
 	          	<span class="subheading">Services</span>
 	            <h2 class="mb-4">Why Select Us?</h2>
-	            <p>We want to see successful and satisfied customers who are happy to recommend us to their friends or business partners.</p>
+	            <p>We want to see successful and satisfied customers who are happy to recommend us to thier friends or business partners.</p>
 	            <p><a href="#" class="btn btn-primary py-3 px-4">Consult With Us</a></p>
 	          </div>
     			</div>
@@ -104,8 +103,7 @@
 		    					<div class="icon d-flex justify-content-center align-items-center">
 		    						<span class="flaticon-house"></span>
 		    					</div>
-		    					<div class="text">
-		    						<h3>Housing and Real Estate</h3>
+		    					<div class="text">		    						<h3>Housing and Real Estate</h3>
 		    						<p>Get in touch with us and find your dream property. We have a thorough knowledge of the Country and will help you secure your dream.</p>
 		    					</div>
 		    					<a href="estate.html" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
@@ -126,7 +124,7 @@
 		    			<div class="col-md-4 d-flex align-items-stretch">
 		    				<div class="services text-center">
 		    					<div class="icon d-flex justify-content-center align-items-center">
-		    						<span class="flaticon-money"></span>
+		    						<span class="flaticon-handcuffs"></span>
 								</div>
 								<div class="text">
 		    						<h3>Tax Consultancy</h3>
